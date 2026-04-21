@@ -1,4 +1,4 @@
-# Comment Category Prediction
+<img width="1144" height="132" alt="image" src="https://github.com/user-attachments/assets/dcb70383-563c-48f8-badc-25ec38446c79" /># Comment Category Prediction
 
 ## 📌 Project Overview
 
@@ -50,6 +50,11 @@ To build a robust machine learning model that predicts the **final category (`la
 ---
 
 ## 📊 Dataset Description
+The dataset is not included due to size limitations.
+
+You can download it from:
+👉 https://www.kaggle.com/competitions/comment-category-prediction-challenge
+
 
 ### Files:
 
